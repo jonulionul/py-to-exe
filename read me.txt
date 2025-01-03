@@ -1,0 +1,15 @@
+⚠️ Attention!
+This script works only if you have Python installed on your system and the necessary Python libraries are available.
+
+🛠️ How to Use:
+1. Open the application and click the Browse button to select the path of your .py script.
+2. Check the box if you want the console to be hidden when running the .exe file.
+   If the box is unchecked, the console will remain open when you run the .exe.
+3. Click the Convert to EXE button to start the conversion process.
+   ⚠️ Note: If PyInstaller is not installed in your Python environment, the app will prompt you to install it.
+   Click Yes to proceed with the installation.
+4. Once the conversion is complete, click the Open EXE Folder button to open the folder where the .exe file was created.
+   🚨 Note: This will open the folder containing the EXE file, not the EXE itself.
+🌐 Open Source
+   Feel free to modify, improve, or use this tool as you wish!
+✍️ Developed by Jonu
